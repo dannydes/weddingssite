@@ -21,6 +21,8 @@
 							<a href="#" target="_blank"><i class="fa social-button fa-facebook"></i></a>
 							<a href="#" target="_blank"><i class="fa social-button fa-linkedin"></i></a>
 							<a href="#" target="_blank"><i class="fa social-button fa-instagram"></i></a>
+							<a href="#" target="_blank"><i class="fa social-button fa-pinterest"></i></a>
+							<a href="#" target="_blank"><i class="fa social-button fa-youtube"></i></a>
 						</div>
 					</div>
 				</div>
@@ -28,7 +30,7 @@
 			<div class="footer-lower">
 				<div class="container">
 					<div class="row">
-						<div class="col-xs-8">Copyright ....</div>
+						<div class="col-xs-8">Copyright &copy; <?php echo date('Y'); ?> ChrisX Weddings & Events</div>
 						<div class="col-xs-4">Brand</div>
 					</div>
 				</div>
